@@ -25,7 +25,7 @@ const Conteudo = styled.section`
 export default () => {
   return (
     <Container>
-      <Titulo>Olá Fulano!</Titulo>
+      <Titulo>Olá SeuNome!</Titulo>
       <Conteudo>
         <Conta />
         <Extrato />
