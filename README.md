@@ -1,4 +1,4 @@
-Praticando React em um curso
+# <h1 align="center">Praticando React em um curso</h1>
 
 ## 🚀 Tecnologias
 <div>
